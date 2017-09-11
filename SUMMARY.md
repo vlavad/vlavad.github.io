@@ -1,7 +1,7 @@
 # Summary
 
 * [Введение](README.md)
-* [ABC-Linux](chapter1.md)
-* [ABC-Unix](abc-unxi.md)
+* [ABC-Linux](abc-linux.md)
+* [ABC-Unix](abc-unix.md)
 * [ABC-Cloud](abc-cloud.md)
 
